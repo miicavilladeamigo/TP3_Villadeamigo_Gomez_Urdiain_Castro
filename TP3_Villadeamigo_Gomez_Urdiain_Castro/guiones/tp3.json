@@ -1,5 +1,5 @@
 {   "audio":"audios/tp3-audio.mp3",
-    "modelo":"modelos/tp3.glb",
+    "modelo":"modelos/modelo.gltf",
     "fondo":"rgb(0,0,0)",
     "data" :
         [

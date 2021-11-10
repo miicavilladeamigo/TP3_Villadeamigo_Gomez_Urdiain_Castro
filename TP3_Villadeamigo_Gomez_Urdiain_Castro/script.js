@@ -3,7 +3,7 @@ import {Mundo} from './Mundo.js'
 import {Objeto} from './Objeto.js'
 
 
-var nombre_guion = "guiones/tp3-guion.json";
+var nombre_guion = "guiones/tp3.json";
 var mundo;
 var cubo;
 var objeto;
