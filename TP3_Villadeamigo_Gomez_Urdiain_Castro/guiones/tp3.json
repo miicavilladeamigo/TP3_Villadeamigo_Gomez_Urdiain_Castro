@@ -55,7 +55,7 @@
           {
                "tiempo":"01:41",
                "duracion":2000,
-               "camara":[0,0,0],
+               "camara":[-25,4,0],
                "target":[0,0,0],
                "nombre":"Marte"
           },
