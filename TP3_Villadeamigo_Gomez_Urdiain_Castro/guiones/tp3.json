@@ -1,28 +1,98 @@
-{   "audio":"audios/tp3-audio.mp3",
-    "modelo":"modelos/modelo.gltf",
+{   "audio":"audios/audio2.mp3",
+    "modelo":"modelos/modelo4.glb",
     "fondo":"rgb(0,0,0)",
     "data" :
         [
            {
                 "tiempo":"00:00",
                 "duracion":2000,
-                "camara":[0,0,-5],
-                "target":[0,0,0],
-                "nombre":"vista uno"
+                "camara":[0,100,0],
+                "target":[0,30,0],
+                "nombre":"vista inicial"
            },
            {
                "tiempo":"00:03",
                "duracion":2000,
-               "camara":[0,0,-10],
+               "camara":[0,-100,0],
                "target":[0,0,0],
-               "nombre":"vista dos"
+               "nombre":"vista inicial abajo"
+          },
+           {
+               "tiempo":"00:08",
+               "duracion":2000,
+               "camara":[10,0,0],
+               "target":[0,0,0],
+               "nombre":"sol"
           },
           {
-               "tiempo":"00:09",
+               "tiempo":"00:17",
                "duracion":2000,
-               "camara":[0,0,-15],
+               "camara":[0,20,0],
                "target":[0,0,0],
-               "nombre":"vista tres"
+               "nombre":"Terrestres"
+          },
+          {
+               "tiempo":"00:27",
+               "duracion":2000,
+               "camara":"camara2",
+               "target":[0,0,0],
+               "nombre":"Mercurio"
+          },
+          {
+               "tiempo":"00:54",
+               "duracion":2000,
+               "camara":[10,0,10],
+               "target":[0,0,0],
+               "nombre":"Venus"
+          },
+          {
+               "tiempo":"01:18",
+               "duracion":2000,
+               "camara":"camara4",
+               "target":[0,0,0],
+               "nombre":"Tierra"
+          },
+          {
+               "tiempo":"01:41",
+               "duracion":2000,
+               "camara":[0,0,0],
+               "target":[0,0,0],
+               "nombre":"Marte"
+          },
+          {
+               "tiempo":"02:03",
+               "duracion":2000,
+               "camara":[0,0,0],
+               "target":[0,0,0],
+               "nombre":"Gigantes gaseosos"
+          },
+          {
+               "tiempo":"02:18",
+               "duracion":2000,
+               "camara":[0,0,0],
+               "target":[0,0,0],
+               "nombre":"Júpiter"
+          },
+          {
+               "tiempo":"02:50",
+               "duracion":2000,
+               "camara":[0,0,0],
+               "target":[0,0,0],
+               "nombre":"Saturno"
+          },
+          {
+               "tiempo":"03:24",
+               "duracion":2000,
+               "camara":[0,0,0],
+               "target":[0,0,0],
+               "nombre":"Urano"
+          },
+          {
+               "tiempo":"04:05",
+               "duracion":2000,
+               "camara":[0,0,0],
+               "target":[0,0,0],
+               "nombre":"Neptuno"
           }
       ]
 }
