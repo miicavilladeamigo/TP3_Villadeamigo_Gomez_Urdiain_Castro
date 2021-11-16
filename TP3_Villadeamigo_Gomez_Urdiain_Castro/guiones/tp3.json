@@ -20,7 +20,7 @@
            {
                "tiempo":"00:08",
                "duracion":2000,
-               "camara":[10,0,0],
+               "camara":[-5,0,0],
                "target":[0,0,0],
                "nombre":"sol"
           },
@@ -34,7 +34,7 @@
           {
                "tiempo":"00:27",
                "duracion":2000,
-               "camara":"camara2",
+               "camara":[10,0,0],
                "target":[0,0,0],
                "nombre":"Mercurio"
           },
@@ -62,14 +62,14 @@
           {
                "tiempo":"02:03",
                "duracion":2000,
-               "camara":[0,0,0],
+               "camara":[0,50,0],
                "target":[0,0,0],
                "nombre":"Gigantes gaseosos"
           },
           {
                "tiempo":"02:18",
                "duracion":2000,
-               "camara":[0,0,0],
+               "camara":[25,0,5],
                "target":[0,0,0],
                "nombre":"Júpiter"
           },
