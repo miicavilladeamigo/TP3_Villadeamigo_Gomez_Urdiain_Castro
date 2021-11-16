@@ -48,14 +48,14 @@
           {
                "tiempo":"01:18",
                "duracion":2000,
-               "camara":[0,0,0],
+               "camara":[-70,0,0],
                "target":[0,0,0],
                "nombre":"Tierra"
           },
           {
                "tiempo":"01:41",
                "duracion":2000,
-               "camara":[-25,4,0],
+               "camara":[-25,0,0],
                "target":[0,0,0],
                "nombre":"Marte"
           },
@@ -76,7 +76,7 @@
           {
                "tiempo":"02:50",
                "duracion":2000,
-               "camara":[0,0,0],
+               "camara":[-30,0,0],
                "target":[0,0,0],
                "nombre":"Saturno"
           },
