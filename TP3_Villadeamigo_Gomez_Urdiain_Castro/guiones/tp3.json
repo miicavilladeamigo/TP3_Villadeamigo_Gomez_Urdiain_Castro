@@ -48,7 +48,7 @@
           {
                "tiempo":"01:18",
                "duracion":2000,
-               "camara":"camara4",
+               "camara":[0,0,0],
                "target":[0,0,0],
                "nombre":"Tierra"
           },
@@ -83,14 +83,14 @@
           {
                "tiempo":"03:24",
                "duracion":2000,
-               "camara":[0,0,0],
+               "camara":[-50,10,40],
                "target":[0,0,0],
                "nombre":"Urano"
           },
           {
                "tiempo":"04:05",
                "duracion":2000,
-               "camara":[0,0,0],
+               "camara":[65,5,0],
                "target":[0,0,0],
                "nombre":"Neptuno"
           }
