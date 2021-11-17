@@ -1,96 +1,103 @@
-{   "audio":"audios/audio2.mp3",
-    "modelo":"modelos/modelo7.glb",
+{   "audio":"audios/audio03.mp3",
+    "modelo":"modelos/modelo8.glb",
     "fondo":"rgb(0,0,0)",
     "data" :
         [
            {
                 "tiempo":"00:00",
-                "duracion":2000,
+                "duracion":0,
                 "camara":[0,100,0],
                 "target":[0,30,0],
                 "nombre":"vista inicial"
            },
         
            {
-               "tiempo":"00:08",
-               "duracion":2000,
-               "camara":[-5,0,0],
+               "tiempo":"00:07",
+               "duracion":1000,
+               "camara":[-5,0,-5],
                "target":[0,0,0],
                "nombre":"sol"
           },
           {
                "tiempo":"00:17",
-               "duracion":2000,
-               "camara":[0,20,0],
+               "duracion":1000,
+               "camara":[0,20,-10],
                "target":[0,0,0],
                "nombre":"Terrestres"
           },
           {
                "tiempo":"00:27",
-               "duracion":2000,
-               "camara":[10,0,0],
+               "duracion":1000,
+               "camara":[10,3,-8],
                "target":[0,0,0],
                "nombre":"Mercurio"
           },
           {
-               "tiempo":"00:54",
-               "duracion":2000,
-               "camara":[10,0,10],
+               "tiempo":"00:51",
+               "duracion":1000,
+               "camara":[13,0,7],
                "target":[0,0,0],
                "nombre":"Venus"
           },
           {
-               "tiempo":"01:18",
-               "duracion":2000,
+               "tiempo":"01:14",
+               "duracion":1000,
                "camara":[-5,0,20],
                "target":[0,0,0],
                "nombre":"Tierra"
           },
           {
-               "tiempo":"01:41",
-               "duracion":2000,
-               "camara":[-25,0,0],
+               "tiempo":"01:20",
+               "duracion":1000,
+               "camara":[5,0,0],
+               "target":[0,0,0],
+               "nombre":"Luna"
+          },
+          {
+               "tiempo":"01:35",
+               "duracion":1000,
+               "camara":[-28.4,0,3],
                "target":[0,0,0],
                "nombre":"Marte"
           },
           {
-               "tiempo":"02:03",
-               "duracion":2000,
+               "tiempo":"01:57",
+               "duracion":1000,
                "camara":[0,50,0],
                "target":[0,0,0],
                "nombre":"Gigantes gaseosos"
           },
           {
-               "tiempo":"02:18",
-               "duracion":2000,
-               "camara":[25,0,5],
+               "tiempo":"02:11",
+               "duracion":1000,
+               "camara":[45,0,5],
                "target":[0,0,0],
                "nombre":"Júpiter"
           },
           {
-               "tiempo":"02:50",
-               "duracion":2000,
+               "tiempo":"02:41",
+               "duracion":1000,
                "camara":"camara8",
-               "target":[-20,0,0],
+               "target":[-50,0,-50],
                "nombre":"Saturno"
           },
           {
-               "tiempo":"03:24",
-               "duracion":2000,
-               "camara":[-50,10,40],
+               "tiempo":"03:13",
+               "duracion":1000,
+               "camara":[-60,10,45],
                "target":[0,0,0],
                "nombre":"Urano"
           },
           {
-               "tiempo":"04:05",
-               "duracion":2000,
-               "camara":[65,5,0],
+               "tiempo":"03:39",
+               "duracion":1000,
+               "camara":[80,5,0],
                "target":[0,0,0],
                "nombre":"Neptuno"
           },
           {
-               "tiempo":"04:41",
-               "duracion":2000,
+               "tiempo":"04:24",
+               "duracion":1000,
                "camara":[0,-100,0],
                "target":[0,0,0],
                "nombre":"vista final abajo"
