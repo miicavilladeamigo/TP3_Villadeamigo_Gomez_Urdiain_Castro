@@ -1,5 +1,5 @@
 {   "audio":"audios/audio2.mp3",
-    "modelo":"modelos/modelo4.glb",
+    "modelo":"modelos/modelo7.glb",
     "fondo":"rgb(0,0,0)",
     "data" :
         [
@@ -10,13 +10,7 @@
                 "target":[0,30,0],
                 "nombre":"vista inicial"
            },
-           {
-               "tiempo":"00:03",
-               "duracion":2000,
-               "camara":[0,-100,0],
-               "target":[0,0,0],
-               "nombre":"vista inicial abajo"
-          },
+        
            {
                "tiempo":"00:08",
                "duracion":2000,
@@ -48,7 +42,7 @@
           {
                "tiempo":"01:18",
                "duracion":2000,
-               "camara":[-70,0,0],
+               "camara":[-5,0,20],
                "target":[0,0,0],
                "nombre":"Tierra"
           },
@@ -76,8 +70,8 @@
           {
                "tiempo":"02:50",
                "duracion":2000,
-               "camara":[-30,0,0],
-               "target":[0,0,0],
+               "camara":"camara8",
+               "target":[-20,0,0],
                "nombre":"Saturno"
           },
           {
@@ -93,6 +87,13 @@
                "camara":[65,5,0],
                "target":[0,0,0],
                "nombre":"Neptuno"
+          },
+          {
+               "tiempo":"04:41",
+               "duracion":2000,
+               "camara":[0,-100,0],
+               "target":[0,0,0],
+               "nombre":"vista final abajo"
           }
       ]
 }
