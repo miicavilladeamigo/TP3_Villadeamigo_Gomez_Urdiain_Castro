@@ -21,7 +21,7 @@
           {
                "tiempo":"00:17",
                "duracion":1000,
-               "camara":[0,0,0],
+               "camara":[0,40,0],
                "target":[0,0,0],
                "nombre":"Terrestres"
           },
@@ -84,7 +84,7 @@
           {
                "tiempo":"01:41",
                "duracion":1000,
-               "camara":[0,0,0],
+               "camara":[0,65,0],
                "target":[0,0,0],
                "nombre":"Gigantes gaseosos"
           },
@@ -140,8 +140,8 @@
           {
                "tiempo":"03:43",
                "duracion":1000,
-               "camara":[0,0,0],
-               "target":[0,0,0],
+               "camara":"camara17",
+               "target":"target17",
                "nombre":"Núcleo de Neptuno"
           },
           {
