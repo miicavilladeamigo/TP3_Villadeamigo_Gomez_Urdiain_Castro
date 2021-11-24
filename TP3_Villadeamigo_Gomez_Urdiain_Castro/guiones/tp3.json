@@ -1,152 +1,152 @@
-{   "audio":"audios/audio4.mp3",
-    "modelo":"modelos/camaras.glb",
+{   "audio":"audios/audio6.mp3",
+    "modelo":"modelos/camaras1.glb",
     "fondo":"rgb(0,0,0)",
     "data" :
         [
            {
                 "tiempo":"00:00",
                 "duracion":0,
-                "camara":[0,100,0],
+                "camara":[0,200,0],
                 "target":[0,0,0],
                 "nombre":"vista inicial"
            },
         
            {
-               "tiempo":"00:07",
-               "duracion":1000,
+               "tiempo":"00:08",
+               "duracion":150,
                "camara":"camara1",
                "target":"target1",
                "nombre":"sol"
           },
           {
-               "tiempo":"00:17",
-               "duracion":1000,
+               "tiempo":"00:20",
+               "duracion":900,
                "camara":[0,40,0],
                "target":[0,0,0],
                "nombre":"Terrestres"
           },
           {
-               "tiempo":"00:27",
-               "duracion":1000,
-               "camara":"camara2",
+               "tiempo":"00:32",
+               "duracion":190,
+               "camara":"camara",
                "target":"target2",
                "nombre":"Mercurio"
           },
           {
-               "tiempo":"00:34",
-               "duracion":1000,
+               "tiempo":"00:39",
+               "duracion":300,
                "camara":"camara3",
                "target":"target3",
                "nombre":"Nucleo de Mercurio"
           },
           {
-               "tiempo":"00:46",
-               "duracion":1000,
+               "tiempo":"00:52",
+               "duracion":500,
                "camara":"camara4",
                "target":"target4",
                "nombre":"Venus"
           },
           {
-               "tiempo":"00:51",
-               "duracion":1000,
+               "tiempo":"01:00",
+               "duracion":100,
                "camara":"camara5",
                "target":"target5",
                "nombre":"Núcleo de Venus"
           },
           {
-               "tiempo":"01:01",
-               "duracion":1000,
+               "tiempo":"01:11",
+               "duracion":150,
                "camara":"camara6",
                "target":"target6",
                "nombre":"Tierra"
           },
           {
-               "tiempo":"01:13",
-               "duracion":1000,
+               "tiempo":"01:25",
+               "duracion":100,
                "camara":"camara7",
                "target":"target7",
                "nombre":"Núcleo de la Tierra"
           },
           {
-               "tiempo":"01:23",
-               "duracion":1000,
+               "tiempo":"01:37",
+               "duracion":100,
                "camara":"camara8",
                "target":"target8",
                "nombre":"Marte"
           },
           {
-               "tiempo":"01:30",
-               "duracion":1000,
+               "tiempo":"01:44",
+               "duracion":900,
                "camara":"camara9",
                "target":"target9",
                "nombre":"Núcleo de Marte"
           },
           {
-               "tiempo":"01:41",
+               "tiempo":"01:56",
                "duracion":1000,
                "camara":[0,65,0],
                "target":[0,0,0],
                "nombre":"Gigantes gaseosos"
           },
           {
-               "tiempo":"01:55",
-               "duracion":1000,
+               "tiempo":"02:12",
+               "duracion":500,
                "camara":"camara10",
                "target":"target10",
                "nombre":"Júpiter"
           },
           {
-               "tiempo":"02:09",
-               "duracion":1000,
+               "tiempo":"02:26",
+               "duracion":800,
                "camara":"camara11",
                "target":"target11",
                "nombre":"Núcleo de Júpiter"
           },
           {
-               "tiempo":"02:22",
-               "duracion":1000,
+               "tiempo":"02:39",
+               "duracion":800,
                "camara":"camara12",
                "target":"target12",
                "nombre":"Saturno"
           },
           {
-               "tiempo":"02:31",
-               "duracion":1000,
+               "tiempo":"02:49",
+               "duracion":500,
                "camara":"camara13",
                "target":"target13",
                "nombre":"Núcleo de Saturno"
           },
           {
-               "tiempo":"2:44",
-               "duracion":1000,
+               "tiempo":"03:04",
+               "duracion":50,
                "camara":"camara14",
                "target":"target14",
                "nombre":"Urano"
           },
           {
-               "tiempo":"02:59",
-               "duracion":1000,
+               "tiempo":"03:22",
+               "duracion":500,
                "camara":"camara15",
                "target":"target15",
                "nombre":"Núcleo de Urano"
           },
           {
-               "tiempo":"03:21",
-               "duracion":1000,
+               "tiempo":"03:43",
+               "duracion":500,
                "camara":"camara16",
                "target":"target16",
                "nombre":"Neptuno"
           },
           {
-               "tiempo":"03:43",
-               "duracion":1000,
+               "tiempo":"04:04",
+               "duracion":500,
                "camara":"camara17",
                "target":"target17",
                "nombre":"Núcleo de Neptuno"
           },
           {
                "tiempo":"04:24",
-               "duracion":1000,
+               "duracion":500,
                "camara":[0,-100,0],
                "target":[0,0,0],
                "nombre":"vista final abajo"
